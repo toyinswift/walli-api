@@ -12,4 +12,4 @@ ENV PORT 8080
 # Add app source code
 ADD . /app
 
-ENTRYPOINT npm run start
+ENTRYPOINT npm start run
