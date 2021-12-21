@@ -67,3 +67,6 @@ An Unofficial API for Walli that allows downloading High-quality wallpapers.
 ## 📜 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+
+
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
